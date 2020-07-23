@@ -1,6 +1,6 @@
 # vuejs-test
 
-> A Vue.js project
+> Running through an example vuejs tutorial https://www.taniarascia.com/getting-started-with-vue/
 
 ## Build Setup
 
